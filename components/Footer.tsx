@@ -7,7 +7,7 @@ export default function Footer() {
         <div className="flex flex-col md:flex-row md:items-center md:justify-between gap-4">
           <div>
             <p className="font-semibold text-gray-800">
-              Turku Laptop Repair
+              Techno Computers
             </p>
             <p className="text-sm text-gray-600">
               Fast, affordable laptop repair in Turku – student-run, pro quality.
@@ -30,14 +30,14 @@ export default function Footer() {
           </div>
 
           <div className="text-sm text-gray-600">
-            <p>hello@turkulaptopfix.fi</p>
+            <p>technocomputers.fi@gmail.com</p>
             <p>+358 40 123 4567</p>
             <p>Turku, Finland</p>
           </div>
         </div>
 
         <p className="text-xs text-gray-500 mt-6">
-          © {new Date().getFullYear()} Turku Laptop Repair. All rights reserved.
+          © {new Date().getFullYear()} Techno Computers. All rights reserved.
         </p>
       </div>
     </footer>

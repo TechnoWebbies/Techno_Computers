@@ -8,33 +8,15 @@ type Review = {
 
 const reviews: Review[] = [
   {
-    name: "Matti K.",
+    name: "senavirathna dilrukmi",
     text:
-      "Super fast screen replacement! My laptop looks like new again. Highly recommend.",
+      "Erinomainen ja nopea vastaus sekä paras mahdollinen palvelu. Kiitos.",
     rating: 5,
   },
   {
-    name: "Laura P.",
+    name: "Chandrakala Anuradhi",
     text:
-      "Very friendly service and clear pricing. They explained everything in simple terms.",
-    rating: 5,
-  },
-  {
-    name: "Jussi M.",
-    text:
-      "Brought my laptop for virus removal and it’s much faster now. Great student-run business.",
-    rating: 5,
-  },
-  {
-    name: "Emma L.",
-    text:
-      "Battery replacement done quickly and at a good price. Will come back if anything else breaks.",
-    rating: 5,
-  },
-  {
-    name: "Aleksi R.",
-    text:
-      "Honest diagnostics and fair quote. Repair took one day as promised.",
+      "Upea palvelu ja tarjosin edullisen hinnan kannettavan tietokoneeni korjaukselle, kiitos paljon ja toivotan teille kaikkea hyvää",
     rating: 5,
   },
 ];

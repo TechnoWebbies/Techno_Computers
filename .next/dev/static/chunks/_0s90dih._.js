@@ -11,28 +11,13 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist
 ;
 const reviews = [
     {
-        name: "Matti K.",
-        text: "Super fast screen replacement! My laptop looks like new again. Highly recommend.",
+        name: "senavirathna dilrukmi",
+        text: "Erinomainen ja nopea vastaus sekä paras mahdollinen palvelu. Kiitos.",
         rating: 5
     },
     {
-        name: "Laura P.",
-        text: "Very friendly service and clear pricing. They explained everything in simple terms.",
-        rating: 5
-    },
-    {
-        name: "Jussi M.",
-        text: "Brought my laptop for virus removal and it’s much faster now. Great student-run business.",
-        rating: 5
-    },
-    {
-        name: "Emma L.",
-        text: "Battery replacement done quickly and at a good price. Will come back if anything else breaks.",
-        rating: 5
-    },
-    {
-        name: "Aleksi R.",
-        text: "Honest diagnostics and fair quote. Repair took one day as promised.",
+        name: "Chandrakala Anuradhi",
+        text: "Upea palvelu ja tarjosin edullisen hinnan kannettavan tietokoneeni korjaukselle, kiitos paljon ja toivotan teille kaikkea hyvää",
         rating: 5
     }
 ];
@@ -48,7 +33,7 @@ function Reviews() {
                         children: "What customers say"
                     }, void 0, false, {
                         fileName: "[project]/components/Reviews.tsx",
-                        lineNumber: 46,
+                        lineNumber: 28,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -56,13 +41,13 @@ function Reviews() {
                         children: "Real Google reviews from our customers in Turku."
                     }, void 0, false, {
                         fileName: "[project]/components/Reviews.tsx",
-                        lineNumber: 49,
+                        lineNumber: 31,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/components/Reviews.tsx",
-                lineNumber: 45,
+                lineNumber: 27,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -82,12 +67,12 @@ function Reviews() {
                                                 children: "★"
                                             }, idx, false, {
                                                 fileName: "[project]/components/Reviews.tsx",
-                                                lineNumber: 65,
+                                                lineNumber: 47,
                                                 columnNumber: 19
                                             }, this))
                                     }, void 0, false, {
                                         fileName: "[project]/components/Reviews.tsx",
-                                        lineNumber: 63,
+                                        lineNumber: 45,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -99,7 +84,7 @@ function Reviews() {
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/components/Reviews.tsx",
-                                        lineNumber: 75,
+                                        lineNumber: 57,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -110,13 +95,13 @@ function Reviews() {
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/components/Reviews.tsx",
-                                        lineNumber: 78,
+                                        lineNumber: 60,
                                         columnNumber: 15
                                     }, this)
                                 ]
                             }, `a-${i}`, true, {
                                 fileName: "[project]/components/Reviews.tsx",
-                                lineNumber: 59,
+                                lineNumber: 41,
                                 columnNumber: 13
                             }, this)),
                         reviews.map((r, i)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -131,12 +116,12 @@ function Reviews() {
                                                 children: "★"
                                             }, idx, false, {
                                                 fileName: "[project]/components/Reviews.tsx",
-                                                lineNumber: 90,
+                                                lineNumber: 72,
                                                 columnNumber: 19
                                             }, this))
                                     }, void 0, false, {
                                         fileName: "[project]/components/Reviews.tsx",
-                                        lineNumber: 88,
+                                        lineNumber: 70,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -148,7 +133,7 @@ function Reviews() {
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/components/Reviews.tsx",
-                                        lineNumber: 100,
+                                        lineNumber: 82,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -159,30 +144,30 @@ function Reviews() {
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/components/Reviews.tsx",
-                                        lineNumber: 103,
+                                        lineNumber: 85,
                                         columnNumber: 15
                                     }, this)
                                 ]
                             }, `b-${i}`, true, {
                                 fileName: "[project]/components/Reviews.tsx",
-                                lineNumber: 84,
+                                lineNumber: 66,
                                 columnNumber: 13
                             }, this))
                     ]
                 }, void 0, true, {
                     fileName: "[project]/components/Reviews.tsx",
-                    lineNumber: 56,
+                    lineNumber: 38,
                     columnNumber: 9
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/components/Reviews.tsx",
-                lineNumber: 55,
+                lineNumber: 37,
                 columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/components/Reviews.tsx",
-        lineNumber: 44,
+        lineNumber: 26,
         columnNumber: 5
     }, this);
 }

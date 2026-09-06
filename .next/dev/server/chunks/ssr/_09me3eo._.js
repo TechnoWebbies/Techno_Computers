@@ -16,7 +16,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$components$2f$Footer$2e$tsx_
 ;
 ;
 const metadata = {
-    title: "Turku Laptop Repair",
+    title: "Techno Computers",
     description: "Fast, affordable laptop repair in Turku – student-run, pro quality."
 };
 function RootLayout({ children }) {
@@ -84,7 +84,7 @@ function Footer() {
                             children: [
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                     className: "font-semibold text-gray-800",
-                                    children: "Turku Laptop Repair"
+                                    children: "Techno Computers"
                                 }, void 0, false, {
                                     fileName: "[project]/components/Footer.tsx",
                                     lineNumber: 9,
@@ -153,7 +153,7 @@ function Footer() {
                             className: "text-sm text-gray-600",
                             children: [
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                    children: "hello@turkulaptopfix.fi"
+                                    children: "technocomputers.fi@gmail.com"
                                 }, void 0, false, {
                                     fileName: "[project]/components/Footer.tsx",
                                     lineNumber: 33,
@@ -190,7 +190,7 @@ function Footer() {
                     children: [
                         "© ",
                         new Date().getFullYear(),
-                        " Turku Laptop Repair. All rights reserved."
+                        " Techno Computers. All rights reserved."
                     ]
                 }, void 0, true, {
                     fileName: "[project]/components/Footer.tsx",
@@ -231,8 +231,8 @@ function Header() {
             children: [
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$react$2d$server$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
                     href: "/",
-                    className: "text-xl font-bold text-blue-700",
-                    children: "Turku Laptop Repair"
+                    className: "text-3xl font-bold text-blue-700",
+                    children: "Techno Computers"
                 }, void 0, false, {
                     fileName: "[project]/components/Header.tsx",
                     lineNumber: 11,

@@ -115,7 +115,7 @@ export default function Home() {
               <div className="text-3xl font-bold text-blue-700 mb-2">1</div>
               <h3 className="font-semibold mb-1">Book or drop in</h3>
               <p className="text-gray-600">
-                Book a time online or bring your laptop to our Turku location.
+                Book a time on Call or bring your laptop to our Turku location.
               </p>
             </div>
             <div>

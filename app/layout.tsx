@@ -4,7 +4,7 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 
 export const metadata: Metadata = {
-  title: "Turku Laptop Repair",
+  title: "Techno Computers",
   description:
     "Fast, affordable laptop repair in Turku – student-run, pro quality.",
 };

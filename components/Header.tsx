@@ -8,8 +8,8 @@ export default function Header() {
     <header className="border-b bg-white">
       <div className="max-w-6xl mx-auto px-4 py-4 flex items-center justify-between">
         {/* Logo / site name */}
-        <Link href="/" className="text-xl font-bold text-blue-700">
-          Turku Laptop Repair
+        <Link href="/" className="text-3xl font-bold text-blue-700">
+          Techno Computers
         </Link>
 
         {/* Nav links + buttons */}

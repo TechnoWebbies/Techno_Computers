@@ -1,5 +1,3 @@
-import Header from "@/components/Header";
-
 const FORM_ENDPOINT = "https://formsubmit.co/technocomputers.fi@gmail.com";
 
 export default function ContactPage() {
