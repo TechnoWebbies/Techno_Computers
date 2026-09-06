@@ -19,6 +19,11 @@ export default function ContactPage() {
               {/* Optional: set subject line for emails */}
               <input
                 type="hidden"
+                name="_next"
+                value="https://techno-computers.vercel.app/thank-you"
+              />
+              <input
+                type="hidden"
                 name="_subject"
                 value="New inquiry from website"
               />
